@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_short">8dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_super_large">32dp</dimen>
+
+    <dimen name="search_bar_radius">14dp</dimen>
+
+    <dimen name="favorite_photo_size">65dp</dimen>
+    <dimen name="favorite_photo_radius">6dp</dimen>
+
+    <dimen name="list_background_radius">12dp</dimen>
+    <dimen name="contact_card_elevation">6dp</dimen>
+
+    <dimen name="detail_photo_size">115dp</dimen>
+
+</resources>

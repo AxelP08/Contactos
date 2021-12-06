@@ -1,3 +1,30 @@
 <resources>
+
     <string name="app_name">Contactos</string>
+
+    <string name="search">Buscar</string>
+    <string name="favorites">Favoritos</string>
+
+    <string name="call">Llamar</string>
+
+    <string name="add_contact">Agregar contacto</string>
+    <string name="name">Nombre:</string>
+    <string name="last_name">Apellidos:</string>
+    <string name="phone">Teléfono:</string>
+    <string name="email">Correo electrónico:</string>
+    <string name="photo_url">Url de fotografía:</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="add_to_favorites">Agregar a favoritos</string>
+
+    <string name="send_email">Enviar correo electrónico</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_contact">Eliminar contacto</string>
+    <string name="delete_confirmation">¿Estás seguro de que quieres eliminar el contacto?</string>
+    <string name="delete_no">No.</string>
+    <string name="delete_yes">Si, eliminarlo</string>
+
+    <string name="edit_contact">Editar contacto</string>
+
 </resources>

@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/axelp/AndroidStudioProjects/Contactos/app/src/main/res/layout/activity_main.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/axelp/AndroidStudioProjects/Contactos/app/src/main/res/drawable/contact_list_background.xml" value="0.13517915309446255" />
+        <entry key="..\:/Users/axelp/AndroidStudioProjects/Contactos/app/src/main/res/layout/activity_add_contact.xml" value="0.1250814332247557" />
+        <entry key="..\:/Users/axelp/AndroidStudioProjects/Contactos/app/src/main/res/layout/activity_contact_detail.xml" value="0.1250814332247557" />
+        <entry key="..\:/Users/axelp/AndroidStudioProjects/Contactos/app/src/main/res/layout/activity_edit_contact.xml" value="0.1250814332247557" />
+        <entry key="..\:/Users/axelp/AndroidStudioProjects/Contactos/app/src/main/res/layout/activity_main.xml" value="0.1250814332247557" />
+        <entry key="..\:/Users/axelp/AndroidStudioProjects/Contactos/app/src/main/res/layout/contacts_item.xml" value="0.1250814332247557" />
+        <entry key="..\:/Users/axelp/AndroidStudioProjects/Contactos/app/src/main/res/layout/favorites_item.xml" value="0.1250814332247557" />
+        <entry key="..\:/Users/axelp/AndroidStudioProjects/Contactos/app/src/main/res/menu/contact_detail_menu.xml" value="0.1250814332247557" />
       </map>
     </option>
   </component>
